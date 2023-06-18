@@ -1,0 +1,1 @@
+console.log('In HTML, JavaScript programs are executed by the web browser.');

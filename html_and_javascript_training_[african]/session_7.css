@@ -1,0 +1,15 @@
+form {
+    background-color: aqua;
+}
+
+nav {
+    padding: 12px;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    padding: 0px 10px;
+}

@@ -1,0 +1,25 @@
+Q1. Write syntax for inserting an image in HTML page
+
+Q2. What are the types of listing tags. Wirte any one the listing tag example and explain what it does?
+
+Q3. Create a table with 3 columns and fill with some random data
+
+Q4. What is the tag used to get the drop down, give it name and also write the syntax for the dropdown with 3 options to choose from.
+
+Q5. What is an HTML element and What is HTML Attributes
+
+Q6. What are formatting tags use for? Give some examples of formatting tags.
+
+Q7. What are variables in JavaScript? Declare a variable and initialize a variable with string value.
+
+Q8. What is a datatype in Javascript? List all the different datatypes in JavaScript.
+
+Q8. List all the types of operators in Javascript and their use case in short
+
+Q9. What are control flow statements?
+
+Q10. Write the syntax for if else statement? Wirte a program using if else, if a user age is greater than 18, print he is an "adult" and if they age is smaller print you are "minor"
+
+Q11. Create an array of numbers and names, individually.
+
+Q12. Print numbers 1 to 20, using while loop

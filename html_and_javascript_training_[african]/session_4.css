@@ -1,0 +1,32 @@
+ol {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+dt {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+dd {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+img {
+    border: 2px solid;
+}
+
+hr {
+    width: 90%;
+    height: 5px;
+    border-radius: 10px;
+    background-color: gold;
+}
+
+ul {
+    display: table;
+    border: 2px dashed chartreuse;
+}

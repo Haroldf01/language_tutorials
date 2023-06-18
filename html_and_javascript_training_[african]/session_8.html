@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session 8</title>
+  </head>
+  <body>
+    <h1>9th December, 2022</h1>
+    <h1>Introduction to JavaScript</h1>
+
+    <button
+      type="button"
+      onclick="document.getElementById('demo').innerHTML = Date()"
+    >
+      Click me to display Date and Time.
+    </button>
+
+    <hr />
+    <p id="demo"></p>
+
+    <button onclick="document.getElementById('myImage').src='assets/pic_bulbon.gif'">
+      Turn on the light
+    </button>
+
+    <img id="myImage" src="assets/pic_bulboff.gif" style="width: 100px" />
+
+    <button onclick="document.getElementById('myImage').src='assets/pic_bulboff.gif'">
+      Turn off the light
+    </button>
+
+    <script>
+      console.log("another script tag, but in body");
+    </script>
+
+    <script src="./session_8.js"></script>
+  </body>
+</html>
